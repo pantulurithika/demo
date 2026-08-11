@@ -1,4 +1,4 @@
 # demo
 this is my demo repository
 <br>
-Author - Rithika 
+Author - Rithika Pantulu
